@@ -728,7 +728,7 @@ input[type="reset"] {
   display: flex !important;
   flex-direction: row !important;
   align-items: flex-start;
-  gap: 40px;
+  gap: 60px;
   width: 100%;
 }
 
